@@ -19,6 +19,5 @@ Zombie Unity Game developed from scratch
 
 **Gameplay**
 
-![alt text](https://i.imgur.com/Y7xBcQm.png)
-
-
+Click image to play gameplay video
+[![Watch the video](https://i.imgur.com/Y7xBcQm.png)](https://drive.google.com/file/d/1jurQtdAPWFmTqo8-TxAOA5NQbzNqvtpN/view?usp=sharing)
